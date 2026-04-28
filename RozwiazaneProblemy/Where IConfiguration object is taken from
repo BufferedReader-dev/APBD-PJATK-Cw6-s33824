@@ -1,0 +1,2 @@
+On start of the application .NET creates one IConfiguration configuration object
+which is then injected every it the class constructor needs it.

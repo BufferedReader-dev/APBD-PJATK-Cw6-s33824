@@ -1,0 +1,2 @@
+Server=localhost,1433;Database=ClinicAdoNet
+Baza danych ma byc stworzona. Laczyc sie trzeba do bazy danych, a nie do serwera.
